@@ -44,4 +44,4 @@ See output:
 Click -> classify
 
 
-![](media/output.jpg)
+![](Media/Output.jpg)
